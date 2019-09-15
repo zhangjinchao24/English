@@ -1,4 +1,4 @@
-blame
+blame 责任
 branch  分支
 byte  字节
 change改变
@@ -35,3 +35,12 @@ unwatch取消关注
 update更新
 wiki维基
 wrap包裹
+
+topic
+repositories
+Trending
+Collections
+Events
+developer
+Discover interesting projects and people to populate your personal news feed.
+Your news feed helps you keep up with recent activity on repositories you watch and people you follow.
